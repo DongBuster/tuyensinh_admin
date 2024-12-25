@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="D:\vs code\dart\android\dkxt\TuyenSinh-Admin-Mobile\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    agpVersion="8.3.0"
+    buildFolder="D:\vs code\dart\android\dkxt\TuyenSinh-Admin-Mobile\build\app"
+    bootClassPath="C:\Users\trinh\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\trinh\AppData\Local\Android\sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

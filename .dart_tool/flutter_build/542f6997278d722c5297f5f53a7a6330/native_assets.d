@@ -1,0 +1,1 @@
+ D:\\vs\ code\\dart\\android\\dkxt\\TuyenSinh-Admin-Mobile\\.dart_tool\\flutter_build\\542f6997278d722c5297f5f53a7a6330\\native_assets.yaml: 
